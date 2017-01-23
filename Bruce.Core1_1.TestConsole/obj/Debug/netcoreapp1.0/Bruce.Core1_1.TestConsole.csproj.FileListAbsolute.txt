@@ -3,10 +3,6 @@ E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.TestConsole\bin\Debug\netcoreapp
 E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.TestConsole\bin\Debug\netcoreapp1.0\Bruce.Core1_1.TestConsole.runtimeconfig.dev.json
 E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.TestConsole\bin\Debug\netcoreapp1.0\Bruce.Core1_1.TestConsole.dll
 E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.TestConsole\bin\Debug\netcoreapp1.0\Bruce.Core1_1.TestConsole.pdb
-E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.TestConsole\obj\Debug\netcoreapp1.0\Bruce.Core1_1.TestConsole.AssemblyInfo.cs
-E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.TestConsole\obj\Debug\netcoreapp1.0\Bruce.Core1_1.TestConsole.dll
-E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.TestConsole\obj\Debug\netcoreapp1.0\Bruce.Core1_1.TestConsole.pdb
-E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.TestConsole\obj\Debug\netcoreapp1.0\Bruce.Core1_1.TestConsole.csprojResolveAssemblyReference.cache
 E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.TestConsole\bin\Debug\netcoreapp1.0\Bruce.Core1_1.Common.dll
 E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.TestConsole\bin\Debug\netcoreapp1.0\Bruce.Core1_1.Entity.dll
 E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.TestConsole\bin\Debug\netcoreapp1.0\Bruce.Core1_1.Repositories.dll
@@ -15,3 +11,7 @@ E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.TestConsole\bin\Debug\netcoreapp
 E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.TestConsole\bin\Debug\netcoreapp1.0\Bruce.Core1_1.Entity.pdb
 E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.TestConsole\bin\Debug\netcoreapp1.0\Bruce.Core1_1.Repositories.pdb
 E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.TestConsole\bin\Debug\netcoreapp1.0\HtmlAgilityPack.pdb
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.TestConsole\obj\Debug\netcoreapp1.0\Bruce.Core1_1.TestConsole.csprojResolveAssemblyReference.cache
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.TestConsole\obj\Debug\netcoreapp1.0\Bruce.Core1_1.TestConsole.AssemblyInfo.cs
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.TestConsole\obj\Debug\netcoreapp1.0\Bruce.Core1_1.TestConsole.dll
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.TestConsole\obj\Debug\netcoreapp1.0\Bruce.Core1_1.TestConsole.pdb

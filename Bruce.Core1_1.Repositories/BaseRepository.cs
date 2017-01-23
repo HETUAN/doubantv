@@ -34,10 +34,17 @@ namespace Bruce.Core1_1.Repositories
 
         protected int Execute(IDbConnection sqlConnection, string sql, object param = null, int? commandTimeout = null, CommandType? commandType = null)
         {
-            using (sqlConnection)
+            try
             {
-                var result = sqlConnection.Execute(sql, param, null, commandTimeout, commandType);
-                return result;
+                using (sqlConnection)
+                {
+                    var result = sqlConnection.Execute(sql, param, null, commandTimeout, commandType);
+                    return result;
+                }
+            }
+            catch  
+            {
+                return 0;
             }
         }
         protected SqlConnection OpenConnection()
