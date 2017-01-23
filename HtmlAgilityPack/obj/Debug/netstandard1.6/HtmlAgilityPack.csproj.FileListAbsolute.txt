@@ -1,0 +1,6 @@
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\HtmlAgilityPack\bin\Debug\netstandard1.6\HtmlAgilityPack.deps.json
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\HtmlAgilityPack\bin\Debug\netstandard1.6\HtmlAgilityPack.dll
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\HtmlAgilityPack\bin\Debug\netstandard1.6\HtmlAgilityPack.pdb
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\HtmlAgilityPack\obj\Debug\netstandard1.6\HtmlAgilityPack.AssemblyInfo.cs
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\HtmlAgilityPack\obj\Debug\netstandard1.6\HtmlAgilityPack.dll
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\HtmlAgilityPack\obj\Debug\netstandard1.6\HtmlAgilityPack.pdb

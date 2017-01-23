@@ -1,0 +1,9 @@
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.Repositories\bin\Debug\netstandard1.4\Bruce.Core1_1.Repositories.deps.json
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.Repositories\bin\Debug\netstandard1.4\Bruce.Core1_1.Repositories.dll
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.Repositories\bin\Debug\netstandard1.4\Bruce.Core1_1.Repositories.pdb
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.Repositories\obj\Debug\netstandard1.4\Bruce.Core1_1.Repositories.AssemblyInfo.cs
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.Repositories\obj\Debug\netstandard1.4\Bruce.Core1_1.Repositories.dll
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.Repositories\obj\Debug\netstandard1.4\Bruce.Core1_1.Repositories.pdb
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.Repositories\obj\Debug\netstandard1.4\Bruce.Core1_1.Repositories.csprojResolveAssemblyReference.cache
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.Repositories\bin\Debug\netstandard1.4\Bruce.Core1_1.Entity.dll
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.Repositories\bin\Debug\netstandard1.4\Bruce.Core1_1.Entity.pdb

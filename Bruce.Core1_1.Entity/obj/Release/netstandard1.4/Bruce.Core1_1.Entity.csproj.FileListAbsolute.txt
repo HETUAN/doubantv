@@ -1,0 +1,6 @@
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.Entity\bin\Release\netstandard1.4\Bruce.Core1_1.Entity.deps.json
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.Entity\bin\Release\netstandard1.4\Bruce.Core1_1.Entity.dll
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.Entity\bin\Release\netstandard1.4\Bruce.Core1_1.Entity.pdb
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.Entity\obj\Release\netstandard1.4\Bruce.Core1_1.Entity.AssemblyInfo.cs
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.Entity\obj\Release\netstandard1.4\Bruce.Core1_1.Entity.dll
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.Entity\obj\Release\netstandard1.4\Bruce.Core1_1.Entity.pdb

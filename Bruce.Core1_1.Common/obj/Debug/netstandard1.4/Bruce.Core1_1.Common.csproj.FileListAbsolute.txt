@@ -1,0 +1,6 @@
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.Common\bin\Debug\netstandard1.4\Bruce.Core1_1.Common.deps.json
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.Common\bin\Debug\netstandard1.4\Bruce.Core1_1.Common.dll
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.Common\bin\Debug\netstandard1.4\Bruce.Core1_1.Common.pdb
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.Common\obj\Debug\netstandard1.4\Bruce.Core1_1.Common.AssemblyInfo.cs
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.Common\obj\Debug\netstandard1.4\Bruce.Core1_1.Common.dll
+E:\TUAN\Vs2017\Bruce.Core1_1.Test\Bruce.Core1_1.Common\obj\Debug\netstandard1.4\Bruce.Core1_1.Common.pdb
